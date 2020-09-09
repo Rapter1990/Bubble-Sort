@@ -15,7 +15,7 @@
 <ul>
   <li>src
     <ul>
-      <libubblesort
+      <li>bubblesort
         <ul>
           <li>BubbleSortProcess.java</li>
         </ul>
